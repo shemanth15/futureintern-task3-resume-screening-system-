@@ -43,6 +43,6 @@ The dataset contains Resume ID, Skills, Job Role, and Resume Score.
 
 ## Author
 
-Hemanth
+S Hemanth
 
 Future Interns – Data Science Internship
